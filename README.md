@@ -6,7 +6,7 @@ You can discover accounts that follow each other, accounts that you follow unila
 Go to "Activities" and then to "Download your information in the Account Center".  
 The question "How much information do you need?" will appear. Select "some information".  
 Scroll down to "Connections" and select "Followers and Following" to continue.  
-You are free to choose the "Duration".
+You are free to choose the "Duration".  I recommend the "full term".  
 Select "JSON" for the "Format".  
 Send the request and wait for a while. (1~10 minutes)  
 You will receive an email from Instagram and follow the instructions to download the file.  
